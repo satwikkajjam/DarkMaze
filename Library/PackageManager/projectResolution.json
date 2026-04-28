@@ -1,0 +1,121 @@
+{
+  "context": {
+    "projectPath": "/Users/sathwik/Downloads/new game/Packages",
+    "unityVersion": "6000.3.4f1"
+  },
+  "inputs": [
+    "/Users/sathwik/Downloads/new game/Packages/manifest.json",
+    "/Users/sathwik/Downloads/new game/Packages/packages-lock.json",
+    "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
+  ],
+  "outputs": {
+    "com.unity.inputsystem@1.7.0": {
+      "name": "com.unity.inputsystem",
+      "displayName": "Input System",
+      "resolvedPath": "/Users/sathwik/Downloads/new game/Library/PackageCache/com.unity.inputsystem@a74895ba9436",
+      "fingerprint": "a74895ba94362b3b9255c9cc3828ee44c4eafcc3",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.7.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "displayName": "uGUI",
+      "resolvedPath": "/Users/sathwik/Downloads/new game/Library/PackageCache/com.unity.ugui@1890c14c96ff",
+      "fingerprint": "1890c14c96ff76161b5301b2798bcfba3176042a",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "displayName": "AI",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "displayName": "Animation",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "displayName": "Audio",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "displayName": "Image Conversion",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "displayName": "IMGUI",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "displayName": "JSONSerialize",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "displayName": "Particle System",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "displayName": "Physics",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "displayName": "UI",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "displayName": "UIElements",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "displayName": "Hierarchy Core",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    }
+  }
+}
