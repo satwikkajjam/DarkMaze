@@ -3,7 +3,7 @@
 # DARK MAZE
 
 ### By  
-**Sathwik
+**Sathwik**
 
 ---
 
