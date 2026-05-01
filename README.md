@@ -150,19 +150,4 @@ The maze contains deadly creatures, hidden pit holes, and endless walls. Strange
 - Lighting System  
 - Audio Manager  
 
----
 
-# 🔹 Team Roles
-
-| Role | Work |
-|------|------|
-| Satwik | Programming & Game Logic |
-| Team Members | Design, Models, Testing |
-
----
-
-# 🔹 Final Tagline
-
-> “In the darkness, every step could be your last.”
-
----
